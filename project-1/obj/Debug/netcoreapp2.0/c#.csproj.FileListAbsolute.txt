@@ -1,0 +1,22 @@
+D:\c#\bin\Debug\netcoreapp2.0\c#.deps.json
+D:\c#\bin\Debug\netcoreapp2.0\c#.runtimeconfig.json
+D:\c#\bin\Debug\netcoreapp2.0\c#.runtimeconfig.dev.json
+D:\c#\bin\Debug\netcoreapp2.0\c#.dll
+D:\c#\bin\Debug\netcoreapp2.0\c#.pdb
+D:\c#\obj\Debug\netcoreapp2.0\c#.csprojAssemblyReference.cache
+D:\c#\obj\Debug\netcoreapp2.0\c#.csproj.CoreCompileInputs.cache
+D:\c#\obj\Debug\netcoreapp2.0\c#.AssemblyInfoInputs.cache
+D:\c#\obj\Debug\netcoreapp2.0\c#.AssemblyInfo.cs
+D:\c#\obj\Debug\netcoreapp2.0\c#.dll
+D:\c#\obj\Debug\netcoreapp2.0\c#.pdb
+D:\c# project\project-1\bin\Debug\netcoreapp2.0\c#.deps.json
+D:\c# project\project-1\bin\Debug\netcoreapp2.0\c#.runtimeconfig.json
+D:\c# project\project-1\bin\Debug\netcoreapp2.0\c#.runtimeconfig.dev.json
+D:\c# project\project-1\bin\Debug\netcoreapp2.0\c#.dll
+D:\c# project\project-1\bin\Debug\netcoreapp2.0\c#.pdb
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.csprojAssemblyReference.cache
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.csproj.CoreCompileInputs.cache
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.AssemblyInfoInputs.cache
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.AssemblyInfo.cs
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.dll
+D:\c# project\project-1\obj\Debug\netcoreapp2.0\c#.pdb
