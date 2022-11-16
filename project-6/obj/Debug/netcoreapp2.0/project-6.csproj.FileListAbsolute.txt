@@ -1,0 +1,11 @@
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.csprojAssemblyReference.cache
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.csproj.CoreCompileInputs.cache
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.AssemblyInfoInputs.cache
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.AssemblyInfo.cs
+D:\c# project\project-6\bin\Debug\netcoreapp2.0\project-6.deps.json
+D:\c# project\project-6\bin\Debug\netcoreapp2.0\project-6.runtimeconfig.json
+D:\c# project\project-6\bin\Debug\netcoreapp2.0\project-6.runtimeconfig.dev.json
+D:\c# project\project-6\bin\Debug\netcoreapp2.0\project-6.dll
+D:\c# project\project-6\bin\Debug\netcoreapp2.0\project-6.pdb
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.dll
+D:\c# project\project-6\obj\Debug\netcoreapp2.0\project-6.pdb
